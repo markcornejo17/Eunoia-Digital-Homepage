@@ -1,0 +1,57 @@
+nav {
+  height: 90px;
+}
+
+.d-block {
+  height: 340px;
+  width: 800px;
+}
+
+#carouselExampleSlidesOnly {
+  border-top: 3px gainsboro solid;
+  border-bottom: 3px gainsboro solid;
+}
+
+.navbar-brand {
+  font-size: 55px;
+}
+
+.hr {
+  margin-left: auto;
+  margin-right: auto;
+  width: 28%;
+}
+
+.services-photo {
+  width: 250px;
+  height: 250px;
+  display: block;
+  margin: auto;
+}
+
+.funnel {
+  width: 600px;
+  height: 400px;
+}
+
+.love {
+  font-size: 20px;
+}
+
+.star {
+  height: 30px;
+  width: 30px;
+}
+
+.bg-dark {
+  color: white;
+}
+
+.date {
+  font-size: 10px;
+}
+
+.read-more {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 12px;
+}
